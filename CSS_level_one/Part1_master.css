@@ -1,0 +1,22 @@
+/* This is a comment */
+/* selected tag{
+  property: value;
+} */
+
+h1{
+  color: magenta;
+}
+
+li{
+  color: rgb(200,25,77);
+}
+
+p{
+  color: #0899ab;
+}
+
+h4{
+  color: rgba(255,0,50,0.5); /* a = alpha value - suggests how 
+  translucent the color is */
+
+}
