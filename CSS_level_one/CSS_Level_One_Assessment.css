@@ -1,0 +1,19 @@
+body{
+  background-color: #BFEFFF;
+}
+h2{
+  color: purple;
+}
+h1{
+  border: 1px solid black;
+}
+textarea{
+  border: 2px solid rgb(131, 0, 0);
+}
+
+.divOne{
+  background-color: yellow;
+}
+.divTwo{
+  background-color: yellow;
+}
