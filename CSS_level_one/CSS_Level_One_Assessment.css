@@ -17,3 +17,15 @@ textarea{
 .divTwo{
   background-color: yellow;
 }
+
+a{
+  color: red;
+}
+
+a.visited{
+  color: blue;
+}
+#itemOne{
+  text-decoration: overline;
+  color: purple;
+}
