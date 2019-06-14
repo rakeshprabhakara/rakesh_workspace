@@ -9,3 +9,23 @@ table{
   margin: auto;
   text-align: center;
 }
+
+#one{
+background-color: #0000E1;
+}
+
+#two{
+  background-color: #F03A47;
+}
+
+#three{
+  background-color: #712F79;
+}
+
+#four{
+  background-color: #B8B42D;
+}
+
+#five{
+  background-color: #697A21;
+}
